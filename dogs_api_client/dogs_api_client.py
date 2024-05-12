@@ -5,8 +5,6 @@ get_ methods are for external sources
 find_ methods are for local search and selection
 """
 import requests
-import random
-
 
 class DogsApiClient:
 
